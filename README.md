@@ -1,4 +1,4 @@
-# 🧠 ChatLLM — AI Super Assistant with RouteLLM
+# Personal Interactive LLM — AI Super Assistant with RouteLLM
 
 A full-stack chat application with intelligent **RouteLLM** model routing for both **Chat** and **Agents** modes. Automatically selects the optimal Claude model (Haiku, Sonnet, or Opus) based on query complexity — reducing cost while maintaining quality.
 
